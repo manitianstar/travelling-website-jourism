@@ -5,15 +5,6 @@ import KeyFeatures from "@/Components/KeyFeature";
 import ReviewsSection from "@/Components/Review";
 
 const HomePage = () => {
-  const scrollToHome = () => {
-    // Logic for scrolling to home section
-  };
-  const scrollToFeatures = () => {
-    // Logic for scrolling to features section
-  };
-  const scrollToHowItWorks = () => {
-    // Logic for scrolling to how it works section
-  };
 
   return (
     <div>

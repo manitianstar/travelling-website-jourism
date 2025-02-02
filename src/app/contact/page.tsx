@@ -39,7 +39,7 @@ export default function ContactUs() {
   // Form validation
   const validateForm = () => {
     let valid = true;
-    let tempErrors = { name: "", email: "", message: "" };
+    const tempErrors = { name: "", email: "", message: "" };
 
     if (!formData.name.trim()) {
       tempErrors.name = "Name is required.";

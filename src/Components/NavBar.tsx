@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import React from "react";
-import TravelScheduler from "./Hero"; // Make sure the path is correct
 
 type NavbarProps = {
   scrollToHome?: () => void;

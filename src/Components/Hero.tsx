@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import { Dialog, DialogTrigger, DialogContent } from "@radix-ui/react-dialog"; // Assuming you're using Radix UI for Dialogs
+import { Dialog, DialogTrigger} from "@radix-ui/react-dialog"; // Assuming you're using Radix UI for Dialogs
 
 const TravelScheduler = () => {
   // List of image sources for the carousel
