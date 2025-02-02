@@ -7,7 +7,7 @@ import ReviewsSection from "@/Components/Review";
 const HomePage = () => {
 
   return (
-    <div>
+    <div className="bg-blue-600">
       <section>
         <NavBar />
       </section>

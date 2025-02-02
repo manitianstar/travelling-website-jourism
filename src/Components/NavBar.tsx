@@ -17,7 +17,7 @@ const NavBar: React.FC<NavbarProps> = () => {
         <div className="text-xl font-bold">Travel Scheduler</div>
 
         {/* Center: Navigation Links */}
-        <ul className="flex space-x-6 justify-center items-center">
+        <ul className="flex space-x-6 justify-center items-center gap-2">
           <li>
             <Link
               href="/"
