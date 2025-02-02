@@ -86,7 +86,7 @@ export default function ContactUs() {
     <div className="min-h-screen bg-gray-100 p-10 flex flex-col items-center justify-center">
       <h1 className="text-4xl font-bold text-blue-600">Contact Us</h1>
       <p className="mt-4 text-lg text-gray-700 text-center">
-        Reach out to us with your inquiries or feedback. We'd love to hear from you!
+      Reach out to us with your inquiries or feedback. We&apos;d love to hear from you!
       </p>
 
       <div className="mt-8 w-full max-w-lg">
